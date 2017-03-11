@@ -1,0 +1,24 @@
+{
+  "name": "string-entry-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Add webpack entries from a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billjohnston/string-entry-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "string",
+    "plugin"
+  ],
+  "author": "Bill Johnston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billjohnston/string-entry-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/billjohnston/string-entry-webpack-plugin#readme"
+}
